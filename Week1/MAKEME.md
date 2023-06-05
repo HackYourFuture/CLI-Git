@@ -4,7 +4,7 @@
 
 ### **1. Practice the concepts**
 
-Just reading articles and watching videos will not be enough to fully understand the concepts that are covered every week. It is important to start doing things yourself and struggle a little doing so ;).
+Just reading articles and watching videos will not be enough to fully understand the concepts that are covered every week. It is important to start doing things yourself and struggle a little doing so ;). Keep this [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) at hand to help you!
 
 Let's start with some CLI practice:
 
@@ -31,6 +31,6 @@ When working with GitHub we want to ensure the same level of security. Thus, we 
 - [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
-## SUBMIT YOUR HOMEWORK!
+## DONE?
 
-There is no homework this week, spend your time working on the parts you found difficult!
+Git is difficult and throughout the curriculum we will be using it to practice. You will probably end up in some predicaments and the [ohshitgit website](https://ohshitgit.com) gives a nice overview of situations you may encounter and how to fix them!
