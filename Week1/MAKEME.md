@@ -1,4 +1,4 @@
-# Homework CLI-GIT Week 1
+# Assignments CLI-GIT Week 1
 
 ## Todo list
 
@@ -33,4 +33,4 @@ When working with GitHub we want to ensure the same level of security. Thus, we 
 
 ## SUBMIT YOUR HOMEWORK!
 
-There is no homework this week, spend your time working on the parts you found difficult!
+There is no assignments this week, spend your time working on the parts you found difficult!
