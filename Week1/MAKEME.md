@@ -4,7 +4,7 @@
 
 ### **1. Practice the concepts**
 
-Just reading articles and watching videos will not be enough to fully understand the concepts that are covered every week. It is important to start doing things yourself and struggle a little doing so ;).
+Just reading articles and watching videos will not be enough to fully understand the concepts that are covered every week. It is important to start doing things yourself and struggle a little doing so ;). Keep this [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) at hand to help you!
 
 Let's start with some CLI practice:
 
@@ -13,8 +13,7 @@ Let's start with some CLI practice:
 Then once you are more comfortable with using the CLI, have a go at the following practical exercises:
 
 1. [Learn Git branching](https://learngitbranching.js.org/) - This is an interactive webpage that will guide you into the most common git workflows. If you get really stuck then this [video](https://www.youtube.com/watch?v=dG0ke9vILQM) goes through it, but only use this in emergencies.
-2. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
-3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### **2. Prep exercise**
 
@@ -31,6 +30,8 @@ When working with GitHub we want to ensure the same level of security. Thus, we 
 - [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
-## SUBMIT YOUR HOMEWORK!
+## DONE?
 
 There is no assignments this week, spend your time working on the parts you found difficult!
+
+Git is difficult and throughout the curriculum we will be using it to practice. You will probably end up in some predicaments and the [ohshitgit website](https://ohshitgit.com) gives a nice overview of situations you may encounter and how to fix them!
