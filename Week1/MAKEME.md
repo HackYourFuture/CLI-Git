@@ -13,7 +13,7 @@ Let's start with some CLI practice:
 Then once you are more comfortable with using the CLI, have a go at the following practical exercises:
 
 1. [Learn Git branching](https://learngitbranching.js.org/) - This is an interactive webpage that will guide you into the most common git workflows. If you get really stuck then this [video](https://www.youtube.com/watch?v=dG0ke9vILQM) goes through it, but only use this in emergencies.
-2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+2. [How to Use GIT and GitHub](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
 
 ### **2. Prep exercise**
 
